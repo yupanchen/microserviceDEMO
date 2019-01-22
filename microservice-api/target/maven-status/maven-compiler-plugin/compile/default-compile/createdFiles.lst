@@ -1,0 +1,4 @@
+com\xmrbi\microservice\entities\User.class
+com\xmrbi\microservice\service\UserClientServiceFallbackFactory$1.class
+com\xmrbi\microservice\service\UserClientServiceFallbackFactory.class
+com\xmrbi\microservice\service\UserClientService.class
